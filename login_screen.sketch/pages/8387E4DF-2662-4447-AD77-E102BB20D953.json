@@ -1,0 +1,349 @@
+{
+  "isFlippedHorizontal" : false,
+  "style" : {
+    "windingRule" : 1,
+    "_class" : "style",
+    "miterLimit" : 10,
+    "startMarkerType" : 0,
+    "endMarkerType" : 0
+  },
+  "rotation" : 0,
+  "frame" : {
+    "x" : 0,
+    "y" : 0,
+    "_class" : "rect",
+    "constrainProportions" : false,
+    "height" : 300,
+    "width" : 300
+  },
+  "do_objectID" : "8387E4DF-2662-4447-AD77-E102BB20D953",
+  "layerListExpandedType" : 0,
+  "exportOptions" : {
+    "shouldTrim" : false,
+    "includedLayerIds" : [
+
+    ],
+    "layerOptions" : 0,
+    "_class" : "exportOptions",
+    "exportFormats" : [
+
+    ]
+  },
+  "hasClickThrough" : true,
+  "horizontalRulerData" : {
+    "base" : 0,
+    "_class" : "rulerData",
+    "guides" : [
+
+    ]
+  },
+  "includeInCloudUpload" : true,
+  "verticalRulerData" : {
+    "base" : 0,
+    "_class" : "rulerData",
+    "guides" : [
+
+    ]
+  },
+  "isFlippedVertical" : false,
+  "nameIsFixed" : false,
+  "name" : "Page 1",
+  "isVisible" : true,
+  "resizingType" : 0,
+  "clippingMaskMode" : 0,
+  "hasClippingMask" : false,
+  "layers" : [
+    {
+      "isFlippedHorizontal" : false,
+      "style" : {
+        "windingRule" : 1,
+        "_class" : "style",
+        "miterLimit" : 10,
+        "startMarkerType" : 0,
+        "endMarkerType" : 0
+      },
+      "rotation" : 0,
+      "frame" : {
+        "x" : -109,
+        "y" : -103,
+        "_class" : "rect",
+        "constrainProportions" : false,
+        "height" : 1024,
+        "width" : 1440
+      },
+      "do_objectID" : "CA77EA5E-88E0-4ECC-B073-8584CF4EC39F",
+      "layerListExpandedType" : 0,
+      "exportOptions" : {
+        "shouldTrim" : false,
+        "includedLayerIds" : [
+
+        ],
+        "layerOptions" : 0,
+        "_class" : "exportOptions",
+        "exportFormats" : [
+
+        ]
+      },
+      "hasClickThrough" : true,
+      "hasBackgroundColor" : false,
+      "horizontalRulerData" : {
+        "base" : 0,
+        "_class" : "rulerData",
+        "guides" : [
+
+        ]
+      },
+      "backgroundColor" : {
+        "red" : 1,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 1,
+        "green" : 1
+      },
+      "includeInCloudUpload" : true,
+      "resizesContent" : false,
+      "verticalRulerData" : {
+        "base" : 0,
+        "_class" : "rulerData",
+        "guides" : [
+
+        ]
+      },
+      "isFlippedVertical" : false,
+      "nameIsFixed" : false,
+      "name" : "Desktop HD",
+      "isVisible" : true,
+      "resizingType" : 0,
+      "clippingMaskMode" : 0,
+      "hasClippingMask" : false,
+      "layers" : [
+        {
+          "isFlippedHorizontal" : false,
+          "style" : {
+            "_class" : "style",
+            "miterLimit" : 10,
+            "colorControls" : {
+              "hue" : 0,
+              "saturation" : 0,
+              "brightness" : 0,
+              "_class" : "colorControls",
+              "isEnabled" : true,
+              "contrast" : 1
+            },
+            "fills" : [
+              {
+                "_class" : "fill",
+                "color" : {
+                  "red" : 0.8526519982993197,
+                  "_class" : "color",
+                  "alpha" : 0.25,
+                  "blue" : 0.8526519982993197,
+                  "green" : 0.8526519982993197
+                },
+                "patternTileScale" : 1,
+                "fillType" : 0,
+                "noiseIntensity" : 0,
+                "patternFillType" : 1,
+                "noiseIndex" : 0,
+                "isEnabled" : true
+              }
+            ],
+            "startMarkerType" : 0,
+            "windingRule" : 1,
+            "endMarkerType" : 0
+          },
+          "rotation" : 0,
+          "frame" : {
+            "x" : 35,
+            "y" : 0,
+            "_class" : "rect",
+            "constrainProportions" : true,
+            "height" : 1024,
+            "width" : 1821.0208993033571
+          },
+          "do_objectID" : "4E2C44A1-3FCC-4290-A7FC-4014FFB3CF2D",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "includedLayerIds" : [
+
+            ],
+            "layerOptions" : 0,
+            "_class" : "exportOptions",
+            "exportFormats" : [
+
+            ]
+          },
+          "image" : {
+            "_ref_class" : "MSImageData",
+            "_class" : "MSJSONFileReference",
+            "_ref" : "images\/5427650e54477f8374e95230c2126563d1cc231d.png"
+          },
+          "isFlippedVertical" : false,
+          "nameIsFixed" : false,
+          "name" : "_MG_3791-1-2",
+          "isVisible" : true,
+          "resizingType" : 0,
+          "clippingMaskMode" : 0,
+          "hasClippingMask" : false,
+          "clippingMask" : "{{0, 0}, {1, 1}}",
+          "isLocked" : false,
+          "shouldBreakMaskChain" : false,
+          "isFixedToViewport" : false,
+          "fillReplacesImage" : false,
+          "_class" : "bitmap",
+          "booleanOperation" : -1,
+          "resizingConstraint" : 63,
+          "intendedDPI" : 144
+        },
+        {
+          "isFlippedHorizontal" : false,
+          "style" : {
+            "_class" : "style",
+            "borders" : [
+              {
+                "thickness" : 1,
+                "fillType" : 0,
+                "_class" : "border",
+                "isEnabled" : false,
+                "position" : 1,
+                "color" : {
+                  "red" : 0.59199999999999997,
+                  "_class" : "color",
+                  "alpha" : 1,
+                  "blue" : 0.59199999999999997,
+                  "green" : 0.59199999999999997
+                }
+              }
+            ],
+            "miterLimit" : 10,
+            "fills" : [
+              {
+                "_class" : "fill",
+                "color" : {
+                  "red" : 0.59999999999999998,
+                  "_class" : "color",
+                  "alpha" : 1,
+                  "blue" : 0.20000000000000001,
+                  "green" : 0
+                },
+                "patternTileScale" : 1,
+                "fillType" : 0,
+                "noiseIntensity" : 0,
+                "patternFillType" : 1,
+                "noiseIndex" : 0,
+                "isEnabled" : true
+              }
+            ],
+            "startMarkerType" : 0,
+            "windingRule" : 1,
+            "endMarkerType" : 0
+          },
+          "rotation" : 0,
+          "frame" : {
+            "x" : 0,
+            "y" : 0,
+            "_class" : "rect",
+            "constrainProportions" : false,
+            "height" : 1024,
+            "width" : 360
+          },
+          "do_objectID" : "22899CF3-9AE2-46E8-96FC-DDE286A7F38E",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "includedLayerIds" : [
+
+            ],
+            "layerOptions" : 0,
+            "_class" : "exportOptions",
+            "exportFormats" : [
+
+            ]
+          },
+          "edited" : false,
+          "hasConvertedToNewRoundCorners" : true,
+          "isFlippedVertical" : false,
+          "nameIsFixed" : false,
+          "name" : "Rectangle",
+          "isVisible" : true,
+          "resizingType" : 0,
+          "clippingMaskMode" : 0,
+          "hasClippingMask" : false,
+          "isClosed" : true,
+          "isLocked" : false,
+          "points" : [
+            {
+              "_class" : "curvePoint",
+              "curveMode" : 1,
+              "hasCurveTo" : false,
+              "curveFrom" : "{0, 0}",
+              "point" : "{0, 0}",
+              "cornerRadius" : 0,
+              "curveTo" : "{0, 0}",
+              "hasCurveFrom" : false
+            },
+            {
+              "_class" : "curvePoint",
+              "curveMode" : 1,
+              "hasCurveTo" : false,
+              "curveFrom" : "{1, 0}",
+              "point" : "{1, 0}",
+              "cornerRadius" : 0,
+              "curveTo" : "{1, 0}",
+              "hasCurveFrom" : false
+            },
+            {
+              "_class" : "curvePoint",
+              "curveMode" : 1,
+              "hasCurveTo" : false,
+              "curveFrom" : "{1, 1}",
+              "point" : "{1, 1}",
+              "cornerRadius" : 0,
+              "curveTo" : "{1, 1}",
+              "hasCurveFrom" : false
+            },
+            {
+              "_class" : "curvePoint",
+              "curveMode" : 1,
+              "hasCurveTo" : false,
+              "curveFrom" : "{0, 1}",
+              "point" : "{0, 1}",
+              "cornerRadius" : 0,
+              "curveTo" : "{0, 1}",
+              "hasCurveFrom" : false
+            }
+          ],
+          "shouldBreakMaskChain" : false,
+          "pointRadiusBehaviour" : 1,
+          "isFixedToViewport" : false,
+          "fixedRadius" : 0,
+          "_class" : "rectangle",
+          "booleanOperation" : -1,
+          "resizingConstraint" : 63
+        }
+      ],
+      "isLocked" : false,
+      "shouldBreakMaskChain" : true,
+      "isFlowHome" : false,
+      "isFixedToViewport" : false,
+      "presetDictionary" : {
+        "name" : "Desktop HD",
+        "offersLandscapeVariant" : 0,
+        "width" : 1440,
+        "allowResizedMatching" : 0,
+        "height" : 1024
+      },
+      "_class" : "artboard",
+      "booleanOperation" : -1,
+      "resizingConstraint" : 63,
+      "includeBackgroundColorInExport" : true
+    }
+  ],
+  "isLocked" : false,
+  "shouldBreakMaskChain" : false,
+  "isFixedToViewport" : false,
+  "_class" : "page",
+  "booleanOperation" : 0,
+  "resizingConstraint" : 63
+}

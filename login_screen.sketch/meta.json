@@ -1,0 +1,35 @@
+{
+  "commit" : "e4f505f4594eb188a22de2c3452fcb4587639e38",
+  "build" : 67378,
+  "version" : 112,
+  "fonts" : [
+
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "commit" : "e4f505f4594eb188a22de2c3452fcb4587639e38",
+    "appVersion" : "52.4",
+    "build" : 67378,
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67378"
+  ],
+  "appVersion" : "52.4",
+  "pagesAndArtboards" : {
+    "8387E4DF-2662-4447-AD77-E102BB20D953" : {
+      "name" : "Page 1",
+      "artboards" : {
+        "CA77EA5E-88E0-4ECC-B073-8584CF4EC39F" : {
+          "name" : "Desktop HD"
+        }
+      }
+    }
+  }
+}
